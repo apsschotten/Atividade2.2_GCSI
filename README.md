@@ -1,2 +1,2 @@
-# Atividade2.2_GCSI
+# Atividade 2.2 - GCSI
 Segunda atividade referente à matéria Gerência e Configurações de Serviços de Internet. Branch &amp; Merge - Atividade 02.
